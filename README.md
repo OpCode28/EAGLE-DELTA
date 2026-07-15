@@ -71,4 +71,17 @@ You do **not** need to use PowerShell or type commands to start the project. Fol
 - 🖥️ Modern Responsive Frontend
 - 🔒 Privacy-Focused (No Cloud Required)
 
-  
+---
+
+##🖥️ Dashboard Overview
+![EAGLE DELTA](dashboard.jpeg)
+
+* **EAGLE DELTA** is an advanced real-time surveillance and target monitoring platform designed for rapid situational awareness. The dashboard combines live sensor feeds, 3D tactical visualization, heatmaps, and intelligent threat analysis to provide operators with a comprehensive operational picture.
+
+---
+
+## 🔥 Dynamic Heatmap
+![EAGLE DELTA](heatmap.jpeg)
+Visualizes areas of high target concentration and activity intensity using color gradients. Heatmaps help identify hotspots, movement patterns, and regions requiring immediate attention.
+
+
