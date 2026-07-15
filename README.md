@@ -58,3 +58,17 @@ You do **not** need to use PowerShell or type commands to start the project. Fol
 * **3D View Interaction:** Hover over the 3D Wavefield card and scroll your **mouse wheel** to zoom. Click **Maximize View** to toggle fullscreen. Drag to spin the viewport.
 * **2D Room Tracking:** The CSI visualization page features a 2D radar scope plotting real-time joint positions.
 <img width="1536" height="1024" alt="WhatsApp Image 2026-07-15 at 8 32 49 AM" src="https://github.com/user-attachments/assets/846b1dcb-1397-4f38-945a-7edfcc419be8" />
+
+## ✨ Features
+
+- 📡 ESP32 CSI Data Collection
+- 🌐 Fully Offline Architecture
+- ⚡ Real-Time Data Streaming
+- 📊 Interactive Dashboard
+- 💾 Local Database Storage
+- 🔌 REST API
+- 📈 Signal Visualization
+- 🖥️ Modern Responsive Frontend
+- 🔒 Privacy-Focused (No Cloud Required)
+
+  
