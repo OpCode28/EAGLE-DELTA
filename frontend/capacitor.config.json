@@ -1,0 +1,9 @@
+{
+  "appId": "com.drdo.netra32",
+  "appName": "Netra32",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "cleartext": true
+  }
+}

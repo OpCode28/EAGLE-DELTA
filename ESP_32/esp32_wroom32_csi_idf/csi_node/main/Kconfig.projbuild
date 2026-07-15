@@ -1,0 +1,40 @@
+
+menu "EAGLE-Δ CSI Node Configuration"
+
+config ESP_CSI_NODE_ID
+    int "Node ID"
+    default 3
+    help
+        Unique ID for this CSI node (1-4 for 4-node setup)
+
+config ESP_WIFI_SSID
+    string "WiFi SSID"
+    default "BAPU_07"
+    help
+        WiFi SSID to connect to
+
+config ESP_WIFI_PASSWORD
+    string "WiFi Password"
+    default "Bapu@2005"
+    help
+        WiFi password
+
+config ESP_BACKEND_HOST
+    string "Backend Host"
+    default "10.159.43.174"
+    help
+        Backend server hostname or IP address
+
+config ESP_BACKEND_PORT
+    int "Backend Port"
+    default 4032
+    help
+        Backend server port number
+
+config ESP_BACKEND_PATH
+    string "Backend Telemetry Path"
+    default "/api/netra32/telemetry"
+    help
+        Backend endpoint path for telemetry
+
+endmenu

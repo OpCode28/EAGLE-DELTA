@@ -1,0 +1,15 @@
+{
+  "name": "eagle-delta",
+  "version": "1.0.0",
+  "description": "EAGLE-Δ Unified Desktop Controller",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^29.1.0",
+    "electron-builder": "^24.13.3"
+  }
+}
